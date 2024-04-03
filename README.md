@@ -1,2 +1,2 @@
-# Landing_page_HTML_CSS
-This webpage shows how to create a landing page 
+# Landing_Page_HTML_CSS
+This simple webpage shows how to create a landing page 
